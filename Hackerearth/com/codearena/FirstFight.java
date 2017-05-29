@@ -7,7 +7,7 @@ public class FirstFight
 {
 	public static void main(String args[] ) throws Exception 
 	{
-        
+        //comment
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = br.readLine();
         int T = Integer.parseInt(line);
